@@ -1,5 +1,5 @@
 /*
-Name: OdoEsther  
+Name: Odongo Esther 
 Reg No: PA106/G/28753/25
 Description: Program to check loan eligibility.
 A bank offers a loan if:
