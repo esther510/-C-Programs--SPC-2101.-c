@@ -1,3 +1,8 @@
+/*
+Name: Odongo Esther
+Reg no:PA106/G/28753/25
+*/
+
 #include <stdio.h>
 
 int main() {
@@ -10,3 +15,4 @@ int main() {
 
     return 0;
 }
+
