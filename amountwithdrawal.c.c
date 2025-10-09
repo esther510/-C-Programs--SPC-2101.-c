@@ -1,3 +1,9 @@
+/*
+Name: Odongo Esther 
+Reg no:PA106/G/28753/25
+Description:A program to display amount withdrawal 
+*/
+
 #include <stdio.h>
 
 int main() {
@@ -23,3 +29,4 @@ int main() {
     printf("Transaction ended.\n");
     return 0;
 }
+
