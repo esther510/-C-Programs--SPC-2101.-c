@@ -1,7 +1,7 @@
 //HELLO WOLRD
 /*
-NAME: BEAUTHER NDEMO
-REG NO: PA106/28704/25
+NAME: Odongo Esther 
+REG NO: PA106/28753/25
 DESCRIPTION: PROGRAM FOR MOBILE DATA PURCHASE
 */
 #include <stdio.h>
@@ -34,4 +34,5 @@ int main()
 		
 	}
 	return 0;
+
 }
