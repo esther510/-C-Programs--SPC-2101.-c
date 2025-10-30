@@ -4,8 +4,7 @@ Reg no:PA106/G/28753/25
 */
 
 #include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
+
 
 int main() {
     int secretNumber, guess, attempts = 0;
@@ -38,4 +37,5 @@ int main() {
 
     return 0;
 }
+
 
