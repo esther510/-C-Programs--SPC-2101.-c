@@ -1,6 +1,6 @@
 /*
 Name: Esther were
-RegNo: PA106/G/2753/25
+RegNo: PA106/G/28753/25
 Description: A program that reads sales data from a file and calculates total sales.
 Date: 6th October, 2025
 */
@@ -29,3 +29,4 @@ int main(){
     printf("Total Sales: %.2f\n", totalsales);
     return 0;
 }
+
