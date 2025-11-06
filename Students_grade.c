@@ -6,11 +6,11 @@ Date: 6th October, 2025
 */
 
 #include <stdio.h>
-#include <stdlib.h>
+
 //define a structure to hold student data
 struct Student {
-    char name[100];
-    char regNo[20];
+    char name[200];
+    char regNo[40];
     int totalMarks;
 };
 FILE *fptr;
@@ -34,4 +34,5 @@ int main(){
     //close the file
     fclose(fptr);
     return 0;
+
 }
